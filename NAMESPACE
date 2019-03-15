@@ -1,0 +1,4 @@
+useDynLib(plvs)
+export(pcqr, pqr, setuplambda, cqr, plot.cv)
+export(datasample)
+

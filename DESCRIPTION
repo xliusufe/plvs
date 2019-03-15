@@ -1,0 +1,13 @@
+Package: plvs
+Type: Package
+Title: Ultra-high dimensional variable selection piecewise linear loss
+        function.
+Version: 1.0
+Date: 2017-01-03
+Author: Xu Liu, Hongmei Jiang and Xingjie Shi
+Maintainer: Xu Liu <liu.xu@mail.shufe.edu.cn>
+Description: Select important variables for piecewise linear loss under ultra-high dimensional data and simultaneously estimate the selected parameters.
+License: GPL (>= 2)
+LazyLoad: yes
+Packaged: 2017-01-14 14:22:05 UTC; admin
+NeedsCompilation: yes
