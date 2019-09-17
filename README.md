@@ -23,7 +23,7 @@ R package "plvs" for estimation of coefficients by ultra-high dimensional variab
     fit$beta0
     
 # References
- Liu, X., Jiang, H. and Shi, X. (2019). ultra-high dimensional variable selection piecewise linear loss function.. Manuscript.
+ Liu, X., Jiang, H. and Shi, X. (2018). ultra-high dimensional variable selection piecewise linear loss function. [Manuscript](https://github.com/xliusufe/plvs/blob/master/inst/L1lossfunction20130606.pdf).
 
 # Development
 This R package is developed by Xu Liu (liu.xu@sufe.edu.cn).
